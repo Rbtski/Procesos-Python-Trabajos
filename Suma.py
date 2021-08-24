@@ -12,4 +12,4 @@ suma = a + b
 
 #Salida
 #print(type(a)) #Entrega el tipo de dato seria integer no es necesario
-print("La suma total es: ", suma)#resultado
+print("La suma total es: ", suma)#resultados
